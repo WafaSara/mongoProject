@@ -12,10 +12,10 @@ class GetTweets
      */
     function __construct(){
         $this->settings = array(
-            'oauth_access_token' => "2809980819-JkR9qlKZCjdQxejYogvOWkAlBpXjEoSOM6Tav0b",
-            'oauth_access_token_secret' => "bKu4FqJXGTo0hLKwB3Wo0huJq76P7Ars97OOJQAn9Ze9R",
-            'consumer_key' => "PfGsd5HmE97aTQ16LJeMbivuL",
-            'consumer_secret' => "GBASyaABU5BFK3Y5QZOZpUim0o5oaTchltJt9sEHG023Jeu7L4"
+            'oauth_access_token' => "",
+            'oauth_access_token_secret' => "",
+            'consumer_key' => "",
+            'consumer_secret' => ""
         );
     }
 
